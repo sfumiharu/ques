@@ -1,0 +1,755 @@
+TPods-quesTests-KIF
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.o /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348915C00000000004D7BC0
+t1397264732
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531FD94B0000000000A90C10
+t1394596171
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/XCTest.framework/XCTest
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005348917F0000000000000198
+t1397264767
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FD95E00000000000003B4
+t1394596190
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FD965000000000000019E
+t1394596197
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531FD9960000000000000ADC
+t1394596246
+s2780
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o
+t1398798121
+s1988
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.o
+t1398798121
+s29232
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.o
+t1398798121
+s35280
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.o
+t1398798121
+s17216
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.o
+t1398798121
+s15012
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.o
+t1398798121
+s53148
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.o
+t1398798121
+s189268
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.o
+t1398798121
+s9836
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.o
+t1398798121
+s9036
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.o
+t1398798121
+s7616
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.o
+t1398798121
+s9796
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.o
+t1398798121
+s3424
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF.LinkFileList
+c00000000535FF7290000000000000BC8
+t1398798121
+s3016
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o
+t1398798122
+s50768
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.o
+t1398798122
+s85000
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.o
+t1398798122
+s44348
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.o
+t1398798122
+s50180
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.o
+t1398798122
+s45224
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.o
+t1398798122
+s97352
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o
+t1398798122
+s1984
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.o
+t1398798122
+s12420
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.pch
+t1398798121
+s124240
+
+N/Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.pch
+t1398798121
+s122164
+
+N/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a
+t2
+s0
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m
+c00000000535FE1DE0000000000000145
+t1398792670
+s325
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m
+c00000000535FE1DE00000000000001EC
+t1398792670
+s492
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m
+c00000000535FE1DE000000000000046D
+t1398792670
+s1133
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m
+c00000000535FE1DE00000000000002FC
+t1398792670
+s764
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m
+c00000000535FE1DE00000000000006DC
+t1398792670
+s1756
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m
+c00000000535FE1DE00000000000015F9
+t1398792670
+s5625
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m
+c00000000535FE1DE0000000000001F24
+t1398792670
+s7972
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m
+c00000000535FE1DE00000000000006B5
+t1398792670
+s1717
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m
+c00000000535FE1DE0000000000000D47
+t1398792670
+s3399
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m
+c00000000535FE1DE0000000000000A61
+t1398792670
+s2657
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m
+c00000000535FE1DE0000000000004F79
+t1398792670
+s20345
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m
+c00000000535FE1DE0000000000000176
+t1398792670
+s374
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m
+c00000000535FE1DE0000000000000382
+t1398792670
+s898
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m
+c00000000535FE1DE0000000000000F2D
+t1398792670
+s3885
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m
+c00000000535FE1DE0000000000001844
+t1398792670
+s6212
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m
+c00000000535FE1DE0000000000000DD1
+t1398792670
+s3537
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m
+c00000000535FE1DE0000000000000255
+t1398792670
+s597
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m
+c00000000535FE1DE000000000000191E
+t1398792670
+s6430
+
+N/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m
+c00000000535FE1DE0000000000009146
+t1398792670
+s37190
+
+N/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m
+c00000000535FF5A0000000000000008C
+t1398797728
+s140
+
+N/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-prefix.pch
+c00000000535FF5A0000000000000007D
+t1398797728
+s125
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9e5e21a92e10b941^32913ea92e10b941^---0#1#1#--18"Check dependencies36"51AB662D-199B-4E04-86DB-C8B5DFF2B83F-
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.435957
+e420490921.470555
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m269"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o KIF/Additions/CGGeometry-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7bc16fa92e10b941^118b78a92e10b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m0000000000000000^4117"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o KIF/Additions/CGGeometry-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o36"CDE9FA96-9F3E-4470-9E17-90272E01E4FC-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.449172
+e420490921.506910
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m257"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.o KIF/Classes/KIFSystemTestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler721573a92e10b941^c1c681a92e10b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m0000000000000000^4083"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.o KIF/Classes/KIFSystemTestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFSystemTestActor.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFSystemTestActor.o36"40216F5E-C1A9-47AB-83D9-1EAF633ABC4E-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.471124
+e420490921.537839
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m245"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.o KIF/Classes/KIFTestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfdc178a92e10b941^68b089a92e10b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m0000000000000000^4047"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.o KIF/Classes/KIFTestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestActor.o36"45C76A26-288E-477E-B27F-E961C633F1D1-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.507189
+e420490921.571775
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m243"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.o KIF/Classes/KIFTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdbfa81a92e10b941^0b6092a92e10b941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m0000000000000000^4041"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.o KIF/Classes/KIFTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestCase.o36"1D0304A9-5108-478D-8F51-8D5A1C08552C-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.538336
+e420490921.600774
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m263"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.o KIF/Classes/KIFTestStepValidation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler41ef89a92e10b941^4fcd99a92e10b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m0000000000000000^4101"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.o KIF/Classes/KIFTestStepValidation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestStepValidation.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTestStepValidation.o36"6C3B07C0-027B-4280-96A7-9D2A13CFA88B-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.601011
+e420490921.685250
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m239"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.o KIF/Classes/KIFTypist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileree439aa92e10b941^ad6cafa92e10b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m0000000000000000^4029"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.o KIF/Classes/KIFTypist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFTypist.o36"10A53158-9864-4565-99A3-7D9BF52DE38B-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.o /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.610233
+e420490921.803484
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTypist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m249"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.o KIF/Classes/KIFUITestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler10789ca92e10b941^f6b2cda92e10b941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m0000000000000000^4059"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.o KIF/Classes/KIFUITestActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFUITestActor.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/KIFUITestActor.o36"C0875C23-5F4F-4482-A3F5-76BE3338F00F-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.723298
+e420490921.769358
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestCase.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/LoadableCategory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m265"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.o KIF/Additions/NSBundle-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd849b9a92e10b941^f9f4c4a92e10b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m0000000000000000^4105"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.o KIF/Additions/NSBundle-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSBundle-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSBundle-KIFAdditions.o36"02AD6EF5-008C-4A3D-910E-B31EB7816F4C-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.803914
+e420490921.858053
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/LoadableCategory.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m263"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.o KIF/Additions/NSError-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9df5cda92e10b941^c1a9dba92e10b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m0000000000000000^4099"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.o KIF/Additions/NSError-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSError-KIFAdditions.o36"B8E19F34-C2C1-416B-B524-A2B3560B114E-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.812990
+e420490921.855509
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m271"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.o KIF/Additions/NSException-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4645d0a92e10b941^e602dba92e10b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m0000000000000000^4123"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.o KIF/Additions/NSException-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSException-KIFAdditions.o36"D4F4290C-9B31-4906-8DF2-537C273F3202-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.858310
+e420490921.903478
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/LoadableCategory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m275"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.o KIF/Additions/NSFileManager-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2cd7dba92e10b941^ed4ae7a92e10b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m0000000000000000^4135"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.o KIF/Additions/NSFileManager-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSFileManager-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/NSFileManager-KIFAdditions.o36"B88664C8-C872-47EB-BE13-584B6807BB92-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.o /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.903762
+e420490921.942532
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.o
+x/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m257"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.o Pods-quesTests-KIF-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc37ee7a92e10b941^ad4bf1a92e10b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m0000000000000000^4061"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.o Pods-quesTests-KIF-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.dia -c /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF-dummy.o36"50F65B93-EC27-44F8-828F-FAA8F07B2D39-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.942785
+e420490922.025151
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/LoadableCategory.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m293"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o KIF/Additions/UIAccessibilityElement-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler037af1a92e10b941^4c7006aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m0000000000000000^4189"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o KIF/Additions/UIAccessibilityElement-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o36"A8C443B1-68AC-47A8-BD40-AE6A960DB337-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490922.025507
+e420490922.165507
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/LoadableCategory.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m275"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.o KIF/Additions/UIApplication-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9ca306aa2e10b941^cc5e2aaa2e10b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m0000000000000000^4135"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.o KIF/Additions/UIApplication-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIApplication-KIFAdditions.o36"BFE603E0-10E1-4B2D-BB75-CCA7FB978769-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490922.165779
+e420490922.241924
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/LoadableCategory.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m273"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.o KIF/Additions/UIScrollView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler86912aaa2e10b941^0fef3daa2e10b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m0000000000000000^4129"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.o KIF/Additions/UIScrollView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIScrollView-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIScrollView-KIFAdditions.o36"99DEF2B6-E7EC-4B10-9BEE-A15E9A1C3D24-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490922.242183
+e420490922.322694
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSError-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m271"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.o KIF/Additions/UITableView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler68243eaa2e10b941^16a352aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m0000000000000000^4123"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.o KIF/Additions/UITableView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITableView-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITableView-KIFAdditions.o36"01F5CEB8-A355-4042-A03D-302D0E6A9194-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490922.288567
+e420490922.366744
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/LoadableCategory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m263"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.o KIF/Additions/UITouch-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08044aaa2e10b941^f7e45daa2e10b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m0000000000000000^4099"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.o KIF/Additions/UITouch-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UITouch-KIFAdditions.o36"65B41429-4B23-4E32-884B-F82A44843CDC-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490922.323067
+e420490922.457668
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/CGGeometry-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIApplication-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UITouch-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m261"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.o KIF/Additions/UIView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler51db52aa2e10b941^062c75aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m0000000000000000^4093"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.o KIF/Additions/UIView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIView-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIView-KIFAdditions.o36"25528340-0466-4797-9157-327962A48EB0-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490922.367013
+e420490922.398959
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m265"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o KIF/Additions/UIWindow-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler630e5eaa2e10b941^7d2366aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m0000000000000000^4105"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o KIF/Additions/UIWindow-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/UIWindow-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o36"2267B47D-A413-4EC3-8C26-D14E5598A65C-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.o /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490922.399206
+e420490922.451950
+r1
+xCompileC
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.o
+x/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Classes/KIFTestActor.h
+d/Users/fumiharu/Desktop/ques/Pods/KIF/Additions/LoadableCategory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m269"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.o KIF/Additions/XCTestCase-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerba4b66aa2e10b941^85b373aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m0000000000000000^4117"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.o KIF/Additions/XCTestCase-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.dia -c /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/XCTestCase-KIFAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/XCTestCase-KIFAdditions.o36"BC7819EE-6444-467A-B329-E926EFE36CAB-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CLibtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a normal i386
+s420490922.459725
+e420490922.470610
+r1
+xLibtool
+x/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o has no symbols
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Libtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a normal i386109"Libtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a normal i386efcb75aa2e10b941^077a78aa2e10b941^-538"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/CGGeometry-KIFAdditions.o has no symbols/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/UIWindow-KIFAdditions.o has no symbols-0#0#1#--1184"Libtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a normal i386    cd /Users/fumiharu/Desktop/ques/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -filelist /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Objects-normal/i386/Pods-quesTests-KIF.LinkFileList -framework CoreGraphics -framework Foundation -framework XCTest -o /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a36"C5F0B37E-A52D-4555-AA27-FA0144C9DB57-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.362158
+e420490921.406552
+r1
+xProcessPCH
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.pch
+xPods-quesTests-KIF-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-prefix.pch
+d/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Pods-quesTests-KIF-prefix.pch265"ProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler28d75ca92e10b941^a01568a92e10b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-prefix.pch0000000000000000^3956"ProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.dia -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.d -c /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-prefix.pch -o /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-acmsutcnsaprmvbglzwjeeyumnrf/Pods-quesTests-KIF-prefix.pch.pch36"6AEB68F0-32A2-4963-AAA0-6070A27C5B6C-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420490921.390063
+e420490921.435190
+r1
+xProcessPCH
+x/Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.pch
+xPods-quesTests-KIF-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-prefix.pch
+d/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Pods-quesTests-KIF-prefix.pch265"ProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraaf463a92e10b941^726a6fa92e10b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-prefix.pch0000000000000000^3922"ProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/Pods-quesTests-KIF-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders -I/Users/fumiharu/Desktop/ques/Pods/BuildHeaders/KIF -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests-KIF.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -DKIF_XCTEST --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.dia -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.d -c /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-prefix.pch -o /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/Pods-quesTests-KIF-prefix-dmoazozlndxjmzdhfliqvvunluli/Pods-quesTests-KIF-prefix.pch.pch36"DA674FA0-0EE4-4F5F-A0C2-E44D5C362C67-
+b0D7AC337-CE97-4362-AD12-03465AB3B863
+
+CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/ques-dujccbnicnetlkcnondzwqlcadxg/Index/PrecompiledHeaders/Pods-quesTests-KIF-prefix-edsjbursxigtbqbuelnpglwbtymr_ast/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/ques-dujccbnicnetlkcnondzwqlcadxg/Index/PrecompiledHeaders/Pods-quesTests-KIF-prefix-ggxakdjmefuieycbdrsbacxpymkw_ast/Pods-quesTests-KIF-prefix.pch.pch Pods-quesTests-KIF-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
