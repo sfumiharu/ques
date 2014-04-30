@@ -1,2 +1,2 @@
-dependencies: /Users/fumiharu/Desktop/ques/ques/main.m \
-  /Users/fumiharu/Desktop/ques/ques/AppDelegate.h
+dependencies: /Users/fumiharu/clonekif/ques/ques/main.m \
+  /Users/fumiharu/clonekif/ques/ques/AppDelegate.h

@@ -21,6 +21,8 @@
 		27622F43190FDE1E0014AB11 /* Detail1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27622F41190FDE1E0014AB11 /* Detail1ViewController.m */; };
 		27622F44190FDE1E0014AB11 /* Detail1ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27622F42190FDE1E0014AB11 /* Detail1ViewController.xib */; };
 		27622F46190FDEB50014AB11 /* lion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 27622F45190FDEB50014AB11 /* lion.jpg */; };
+		2776F95519112DDE00D6807C /* Detail2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2776F95319112DDE00D6807C /* Detail2ViewController.m */; };
+		2776F95619112DDE00D6807C /* Detail2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2776F95419112DDE00D6807C /* Detail2ViewController.xib */; };
 		27EF7F131910181F00F685EC /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27622F21190F85330014AB11 /* XCTest.framework */; };
 		27EF7F141910181F00F685EC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27622F02190F85330014AB11 /* Foundation.framework */; };
 		27EF7F151910181F00F685EC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27622F06190F85330014AB11 /* UIKit.framework */; };
@@ -64,6 +66,9 @@
 		27622F41190FDE1E0014AB11 /* Detail1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Detail1ViewController.m; sourceTree = "<group>"; };
 		27622F42190FDE1E0014AB11 /* Detail1ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Detail1ViewController.xib; sourceTree = "<group>"; };
 		27622F45190FDEB50014AB11 /* lion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lion.jpg; sourceTree = "<group>"; };
+		2776F95219112DDE00D6807C /* Detail2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Detail2ViewController.h; sourceTree = "<group>"; };
+		2776F95319112DDE00D6807C /* Detail2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Detail2ViewController.m; sourceTree = "<group>"; };
+		2776F95419112DDE00D6807C /* Detail2ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Detail2ViewController.xib; sourceTree = "<group>"; };
 		27EF7F121910181F00F685EC /* quesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = quesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27EF7F181910181F00F685EC /* quesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "quesTests-Info.plist"; sourceTree = "<group>"; };
 		27EF7F1A1910181F00F685EC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -146,6 +151,9 @@
 				27622F40190FDE1E0014AB11 /* Detail1ViewController.h */,
 				27622F41190FDE1E0014AB11 /* Detail1ViewController.m */,
 				27622F42190FDE1E0014AB11 /* Detail1ViewController.xib */,
+				2776F95219112DDE00D6807C /* Detail2ViewController.h */,
+				2776F95319112DDE00D6807C /* Detail2ViewController.m */,
+				2776F95419112DDE00D6807C /* Detail2ViewController.xib */,
 				27622F45190FDEB50014AB11 /* lion.jpg */,
 				27622F1A190F85330014AB11 /* Images.xcassets */,
 				27622F09190F85330014AB11 /* Supporting Files */,
@@ -268,6 +276,7 @@
 				27622F3F190FDE0F0014AB11 /* Detail0ViewController.xib in Resources */,
 				27622F1B190F85330014AB11 /* Images.xcassets in Resources */,
 				27622F38190F85540014AB11 /* ViewController.xib in Resources */,
+				2776F95619112DDE00D6807C /* Detail2ViewController.xib in Resources */,
 				27622F0D190F85330014AB11 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -322,6 +331,7 @@
 			files = (
 				27622F3E190FDE0F0014AB11 /* Detail0ViewController.m in Sources */,
 				27622F19190F85330014AB11 /* ViewController.m in Sources */,
+				2776F95519112DDE00D6807C /* Detail2ViewController.m in Sources */,
 				27622F13190F85330014AB11 /* AppDelegate.m in Sources */,
 				27622F0F190F85330014AB11 /* main.m in Sources */,
 				27622F43190FDE1E0014AB11 /* Detail1ViewController.m in Sources */,

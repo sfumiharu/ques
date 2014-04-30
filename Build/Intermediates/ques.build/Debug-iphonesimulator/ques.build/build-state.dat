@@ -2,22 +2,24 @@ Tques
 v6
 r1
 cCheck dependencies
-cProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-dqiyebecqzijflbflcvmdmhncget/ques-Prefix.pch.pch ques/ques-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o /Users/fumiharu/Desktop/ques/ques/Detail0ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o /Users/fumiharu/Desktop/ques/ques/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o /Users/fumiharu/Desktop/ques/ques/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o /Users/fumiharu/Desktop/ques/ques/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o /Users/fumiharu/Desktop/ques/ques/Detail1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ques normal i386
-cCompileXIB /Users/fumiharu/Desktop/ques/ques/Detail1ViewController.xib
+cProcessPCH /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.pch ques/ques-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o /Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o /Users/fumiharu/clonekif/ques/ques/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.o /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o /Users/fumiharu/clonekif/ques/ques/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o /Users/fumiharu/clonekif/ques/ques/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques normal i386
+cCompileXIB /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.xib
 cCpResource ques/lion.jpg Build/Products/Debug-iphonesimulator/ques.app/lion.jpg
-cCompileXIB /Users/fumiharu/Desktop/ques/ques/Detail0ViewController.xib
-cCompileXIB /Users/fumiharu/Desktop/ques/ques/ViewController.xib
-cCopyStringsFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/en.lproj/InfoPlist.strings ques/en.lproj/InfoPlist.strings
-cCompileAssetCatalog /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app /Users/fumiharu/Desktop/ques/ques/Images.xcassets
-cProcessInfoPlistFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/Info.plist /Users/fumiharu/Desktop/ques/ques/ques-Info.plist
-cGenerateDSYMFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
-cTouch /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app
+cCompileXIB /Users/fumiharu/clonekif/ques/ques/Detail0ViewController.xib
+cCompileXIB /Users/fumiharu/clonekif/ques/ques/ViewController.xib
+cCompileXIB /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.xib
+cCopyStringsFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/en.lproj/InfoPlist.strings ques/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app /Users/fumiharu/clonekif/ques/ques/Images.xcassets
+cProcessInfoPlistFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/Info.plist /Users/fumiharu/clonekif/ques/ques/ques-Info.plist
+cGenerateDSYMFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
+cTouch /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
 c000000005348917F0000000000000198
@@ -391,6 +393,191 @@ c00000000535F4DB30000000000000158
 t1398754739
 s344
 
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.pch
+t1398861471
+s121632
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o
+t1398861472
+s64876
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o
+t1398861472
+s58428
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o
+t1398861472
+s44220
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.o
+t1398879312
+s45120
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o
+t1398881377
+s62448
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o
+t1398861472
+s3504
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ques.LinkFileList
+c000000005360F807000000000000031A
+t1398863879
+s794
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/assetcatalog_dependencies.txt
+t1398861447
+s332
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/assetcatalog_generated_info.plist
+t1398861447
+s525
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app
+t1398881380
+s442
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM
+t1398881381
+s102
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/Detail0ViewController.nib
+t1398861447
+s3282
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/Detail1ViewController.nib
+t1398863260
+s1818
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/Detail2ViewController.nib
+t1398881380
+s1054
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/Info.plist
+t1398861447
+s957
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/PkgInfo
+t1398861447
+s8
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ViewController.nib
+t1398864006
+s3135
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/en.lproj/InfoPlist.strings
+t1398861447
+s42
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/lion.jpg
+t1398861447
+s1788016
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
+t1398881377
+s40776
+
+N/Users/fumiharu/clonekif/ques/ques/AppDelegate.h
+c000000005360EE8700000000000000DC
+t1398861447
+s220
+
+N/Users/fumiharu/clonekif/ques/ques/AppDelegate.m
+c000000005360EE8700000000000008D5
+t1398861447
+s2261
+
+N/Users/fumiharu/clonekif/ques/ques/Detail0ViewController.h
+c000000005360EE8700000000000000C2
+t1398861447
+s194
+
+N/Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m
+c000000005360EE870000000000000630
+t1398861447
+s1584
+
+N/Users/fumiharu/clonekif/ques/ques/Detail0ViewController.xib
+c000000005360EE87000000000000142A
+t1398861447
+s5162
+
+N/Users/fumiharu/clonekif/ques/ques/Detail1ViewController.h
+c000000005360EE8700000000000000AC
+t1398861447
+s172
+
+N/Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m
+c000000005360EE8700000000000002CD
+t1398861447
+s717
+
+N/Users/fumiharu/clonekif/ques/ques/Detail1ViewController.xib
+c000000005360F59B0000000000000936
+t1398863259
+s2358
+
+N/Users/fumiharu/clonekif/ques/ques/Detail2ViewController.h
+c000000005360F65D00000000000000AC
+t1398863453
+s172
+
+N/Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m
+c0000000053613450000000000000035B
+t1398879312
+s859
+
+N/Users/fumiharu/clonekif/ques/ques/Detail2ViewController.xib
+c0000000053613C60000000000000074B
+t1398881376
+s1867
+
+N/Users/fumiharu/clonekif/ques/ques/Images.xcassets
+c000000005360EE870000000000000088
+t1398861447
+s136
+
+N/Users/fumiharu/clonekif/ques/ques/ViewController.h
+c000000005360EE8700000000000000CB
+t1398861447
+s203
+
+N/Users/fumiharu/clonekif/ques/ques/ViewController.m
+c0000000053613C6000000000000009BE
+t1398881376
+s2494
+
+N/Users/fumiharu/clonekif/ques/ques/ViewController.xib
+c000000005360F885000000000000106D
+t1398864005
+s4205
+
+N/Users/fumiharu/clonekif/ques/ques/en.lproj/InfoPlist.strings
+c000000005360EE87000000000000002D
+t1398861447
+s45
+
+N/Users/fumiharu/clonekif/ques/ques/lion.jpg
+c000000005360EE8700000000001B4870
+t1398861447
+s1788016
+
+N/Users/fumiharu/clonekif/ques/ques/main.m
+c000000005360EE870000000000000118
+t1398861447
+s280
+
+N/Users/fumiharu/clonekif/ques/ques/ques-Info.plist
+c000000005360EE870000000000000486
+t1398861447
+s1158
+
+N/Users/fumiharu/clonekif/ques/ques/ques-Prefix.pch
+c000000005360EE870000000000000158
+t1398861447
+s344
+
 N/usr/lib/libSystem.B.dylib
 c000000005281C02A000000000000E6D0
 t1384235050
@@ -541,9 +728,27 @@ r0
 CBuild AST from /Users/fumiharu/Desktop/ques/ques/main.m
 r0
 
+CBuild AST from /Users/fumiharu/clonekif/ques/ques/AppDelegate.m
+r0
+
+CBuild AST from /Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m
+r0
+
+CBuild AST from /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m
+r0
+
+CBuild AST from /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m
+r0
+
+CBuild AST from /Users/fumiharu/clonekif/ques/ques/ViewController.m
+r0
+
+CBuild AST from /Users/fumiharu/clonekif/ques/ques/main.m
+r0
+
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf0f971482f10b941^58377a482f10b941^---0#1#1#--18"Check dependencies36"B8EB98C4-51CF-463D-804D-65AE5191C088-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies753bf38e7411b941^d2fdf48e7411b941^---0#1#1#--18"Check dependencies36"5DF3066B-97F3-49CE-B7DA-ACDCBEBE4C91-
 
 CCompileAssetCatalog /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app /Users/fumiharu/Desktop/ques/ques/Images.xcassets
 s420490921.855817
@@ -559,6 +764,9 @@ o/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulat
 o
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ques.app ques/Images.xcassets86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ques.app ques/Images.xcassetsb630dba92e10b941^07ce49aa2e10b941^-360"/* com.apple.actool.compilation-results *//Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/LaunchImage-700-568h@2x.png/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/Assets.car/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@57"file:///Users/fumiharu/Desktop/ques/ques/Images.xcassets/0000000000000000^1215"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ques.app ques/Images.xcassets    cd /Users/fumiharu/Desktop/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app /Users/fumiharu/Desktop/ques/ques/Images.xcassets36"0AE49CDB-6FB3-4FC3-8269-BF5E49E85CC2-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
+
+CCompileAssetCatalog /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app /Users/fumiharu/clonekif/ques/ques/Images.xcassets
+r0
 
 CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o /Users/fumiharu/Desktop/ques/ques/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490921.278968
@@ -577,6 +785,23 @@ d/Users/fumiharu/Desktop/ques/ques/ViewController.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/fumiharu/Desktop/ques/ques/AppDelegate.m193"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o ques/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler178347a92e10b941^1aa45ca92e10b941^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/fumiharu/Desktop/ques/ques/AppDelegate.m0000000000000000^3581"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o ques/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-dqiyebecqzijflbflcvmdmhncget/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.dia -c /Users/fumiharu/Desktop/ques/ques/AppDelegate.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o36"F83F11AF-29E4-4B52-B347-36B4D7D155E4-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
 
+CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o /Users/fumiharu/clonekif/ques/ques/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420554272.071916
+e420554272.147221
+r1
+xCompileC
+xBuild/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o
+x/Users/fumiharu/clonekif/ques/ques/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/ques/AppDelegate.m
+d/Users/fumiharu/clonekif/ques/ques/AppDelegate.h
+d/Users/fumiharu/clonekif/ques/ques/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/fumiharu/clonekif/ques/ques/AppDelegate.m193"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o ques/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb08f12202611b941^bcb025202611b941^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/fumiharu/clonekif/ques/ques/AppDelegate.m0000000000000000^3595"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o ques/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.dia -c /Users/fumiharu/clonekif/ques/ques/AppDelegate.m -o /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o36"6923BE6E-110E-4FED-8FCD-8093F1BB85D0-
+b20D3BFD7-D2D4-437A-8725-EAB54E0FD50D
+
 CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o /Users/fumiharu/Desktop/ques/ques/Detail0ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490921.194726
 e420490921.279983
@@ -593,6 +818,22 @@ d/Users/fumiharu/Desktop/ques/ques/Detail0ViewController.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/fumiharu/Desktop/ques/ques/Detail0ViewController.m213"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o ques/Detail0ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler22fe31a92e10b941^b8af47a92e10b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/fumiharu/Desktop/ques/ques/Detail0ViewController.m0000000000000000^3641"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o ques/Detail0ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-dqiyebecqzijflbflcvmdmhncget/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.dia -c /Users/fumiharu/Desktop/ques/ques/Detail0ViewController.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o36"98F3AE24-1C7F-49DC-B4D9-55F66F9279B3-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
 
+CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o /Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420554271.966570
+e420554272.078569
+r1
+xCompileC
+xBuild/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o
+x/Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m
+d/Users/fumiharu/clonekif/ques/ques/Detail0ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m213"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o ques/Detail0ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7897f71f2611b941^ef1e14202611b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m0000000000000000^3655"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o ques/Detail0ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.d --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.dia -c /Users/fumiharu/clonekif/ques/ques/Detail0ViewController.m -o /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o36"2F5849D9-9EE4-42D9-94E9-7CBC0477A963-
+b20D3BFD7-D2D4-437A-8725-EAB54E0FD50D
+
 CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o /Users/fumiharu/Desktop/ques/ques/Detail1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490921.315942
 e420490921.389780
@@ -608,6 +849,38 @@ d/Users/fumiharu/Desktop/ques/ques/Detail1ViewController.m
 d/Users/fumiharu/Desktop/ques/ques/Detail1ViewController.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/fumiharu/Desktop/ques/ques/Detail1ViewController.m213"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o ques/Detail1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler09fd50a92e10b941^86ca63a92e10b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/fumiharu/Desktop/ques/ques/Detail1ViewController.m0000000000000000^3641"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o ques/Detail1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-dqiyebecqzijflbflcvmdmhncget/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.dia -c /Users/fumiharu/Desktop/ques/ques/Detail1ViewController.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o36"24E816F6-BC5F-4A4C-B0B7-1BDEB143802D-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
+
+CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420554272.111102
+e420554272.172588
+r1
+xCompileC
+xBuild/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o
+x/Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m
+d/Users/fumiharu/clonekif/ques/ques/Detail1ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m213"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o ques/Detail1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler978b1c202611b941^b62f2c202611b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m0000000000000000^3655"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o ques/Detail1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.d --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.dia -c /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.m -o /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o36"B9401803-C840-4737-B745-432DA7E7797E-
+b20D3BFD7-D2D4-437A-8725-EAB54E0FD50D
+
+CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.o /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420572112.864198
+e420572112.931306
+r1
+xCompileC
+xBuild/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.o
+x/Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m
+d/Users/fumiharu/clonekif/ques/ques/Detail2ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m213"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.o ques/Detail2ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercf66ddd06b11b941^e013efd06b11b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m0000000000000000^3655"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.o ques/Detail2ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.d --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.dia -c /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.m -o /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.o36"B5DCB550-D079-491A-9F7C-C4341E2BB2C7-
+b534466D5-94B2-4BAD-9E04-0920DC068CBD
 
 CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o /Users/fumiharu/Desktop/ques/ques/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490921.194986
@@ -627,6 +900,25 @@ d/Users/fumiharu/Desktop/ques/ques/Detail1ViewController.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/fumiharu/Desktop/ques/ques/ViewController.m199"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o ques/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerab0932a92e10b941^ef5547a92e10b941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/fumiharu/Desktop/ques/ques/ViewController.m0000000000000000^3599"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o ques/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-dqiyebecqzijflbflcvmdmhncget/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.dia -c /Users/fumiharu/Desktop/ques/ques/ViewController.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o36"7FF316FF-45C0-469D-A012-E982BC6BF119-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
 
+CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o /Users/fumiharu/clonekif/ques/ques/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420574176.786666
+e420574177.274724
+r1
+xCompileC
+xBuild/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o
+x/Users/fumiharu/clonekif/ques/ques/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/ques/ViewController.m
+d/Users/fumiharu/clonekif/ques/ques/ViewController.h
+d/Users/fumiharu/clonekif/ques/ques/Detail0ViewController.h
+d/Users/fumiharu/clonekif/ques/ques/Detail1ViewController.h
+d/Users/fumiharu/clonekif/ques/ques/Detail2ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/fumiharu/clonekif/ques/ques/ViewController.m199"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o ques/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler287ccae07311b941^de5646e17311b941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/fumiharu/clonekif/ques/ques/ViewController.m0000000000000000^3613"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o ques/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.dia -c /Users/fumiharu/clonekif/ques/ques/ViewController.m -o /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o36"74B45A5A-8019-4FB5-A555-E3B024880EF9-
+b5811723F-A066-41C1-9EC8-955C38AD6AC7
+
 CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o /Users/fumiharu/Desktop/ques/ques/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490921.280206
 e420490921.315685
@@ -642,6 +934,22 @@ d/Users/fumiharu/Desktop/ques/ques/main.m
 d/Users/fumiharu/Desktop/ques/ques/AppDelegate.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /Users/fumiharu/Desktop/ques/ques/main.m179"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o ques/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler88d947a92e10b941^78d450a92e10b941^---0#0#1#-19%DVTDocumentLocation2@47"file:///Users/fumiharu/Desktop/ques/ques/main.m0000000000000000^3539"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o ques/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-dqiyebecqzijflbflcvmdmhncget/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.dia -c /Users/fumiharu/Desktop/ques/ques/main.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o36"7A9AC699-0D1C-4081-AF3D-4681A3BDBB42-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
+
+CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o /Users/fumiharu/clonekif/ques/ques/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420554272.078914
+e420554272.110823
+r1
+xCompileC
+xBuild/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o
+x/Users/fumiharu/clonekif/ques/ques/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/ques/main.m
+d/Users/fumiharu/clonekif/ques/ques/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/fumiharu/clonekif/ques/ques/main.m179"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o ques/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb95514202611b941^cc601c202611b941^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/fumiharu/clonekif/ques/ques/main.m0000000000000000^3553"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o ques/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.dia -c /Users/fumiharu/clonekif/ques/ques/main.m -o /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o36"B97D6A69-B62F-485D-AC78-E1CBF5629A97-
+b20D3BFD7-D2D4-437A-8725-EAB54E0FD50D
 
 CCompileXIB /Users/fumiharu/Desktop/ques/ques/Detail0ViewController.xib
 s420490999.057355
@@ -670,6 +978,37 @@ x/Users/fumiharu/Desktop/ques/ques/ViewController.xib
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compiling /Users/fumiharu/Desktop/ques/ques/ViewController.xib34"CompileXIB ques/ViewController.xibe623c5a92e10b941^c762cfa92e10b941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/fumiharu/Desktop/ques/ques/ViewController.xib0000000000000000^869"CompileXIB ques/ViewController.xib    cd /Users/fumiharu/Desktop/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ViewController.nib /Users/fumiharu/Desktop/ques/ques/ViewController.xib36"2DAB94F5-A722-432F-9757-1FD51FE260E2-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
 
+CCompileXIB /Users/fumiharu/clonekif/ques/ques/Detail0ViewController.xib
+r0
+
+CCompileXIB /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.xib
+s420556059.920100
+e420556060.266407
+r1
+xCompileXIB
+x/Users/fumiharu/clonekif/ques/ques/Detail1ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compiling /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.xib41"CompileXIB ques/Detail1ViewController.xibada6eb1b2d11b941^b533441c2d11b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/fumiharu/clonekif/ques/ques/Detail1ViewController.xib0000000000000000^893"CompileXIB ques/Detail1ViewController.xib    cd /Users/fumiharu/clonekif/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/Detail1ViewController.nib /Users/fumiharu/clonekif/ques/ques/Detail1ViewController.xib36"D4350472-009F-4D62-9D78-C950DAD597AF-
+b03E517DD-8066-4742-9BFB-17D947C7E9FB
+
+CCompileXIB /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.xib
+s420574177.466237
+e420574180.974818
+r1
+xCompileXIB
+x/Users/fumiharu/clonekif/ques/ques/Detail2ViewController.xib
+onwi_state: registration failed (1000000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compiling /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.xib41"CompileXIB ques/Detail2ViewController.xib06b977e17311b941^20d0f9e47311b941^-41"nwi_state: registration failed (1000000)-0#0#1#-19%DVTDocumentLocation2@67"file:///Users/fumiharu/clonekif/ques/ques/Detail2ViewController.xib0000000000000000^893"CompileXIB ques/Detail2ViewController.xib    cd /Users/fumiharu/clonekif/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/Detail2ViewController.nib /Users/fumiharu/clonekif/ques/ques/Detail2ViewController.xib36"BF8AB035-90AA-40BF-93C1-1B0871A09454-
+b5811723F-A066-41C1-9EC8-955C38AD6AC7
+
+CCompileXIB /Users/fumiharu/clonekif/ques/ques/ViewController.xib
+s420556805.972426
+e420556806.011248
+r1
+xCompileXIB
+x/Users/fumiharu/clonekif/ques/ques/ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compiling /Users/fumiharu/clonekif/ques/ques/ViewController.xib34"CompileXIB ques/ViewController.xibfa0bf9053011b941^cd3e03063011b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/fumiharu/clonekif/ques/ques/ViewController.xib0000000000000000^872"CompileXIB ques/ViewController.xib    cd /Users/fumiharu/clonekif/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ViewController.nib /Users/fumiharu/clonekif/ques/ques/ViewController.xib36"8461231D-B777-43C0-8110-26B1D23F40EB-
+b2E9FC1EB-B3BF-4138-8A53-2F2296A7F14E
+
 CCopyStringsFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/en.lproj/InfoPlist.strings ques/en.lproj/InfoPlist.strings
 s420490921.810322
 e420490921.811800
@@ -679,6 +1018,9 @@ x/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/en.l
 xques/en.lproj/InfoPlist.strings
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy ques/en.lproj/InfoPlist.strings120"CopyStringsFile Build/Products/Debug-iphonesimulator/ques.app/en.lproj/InfoPlist.strings ques/en.lproj/InfoPlist.strings7e8acfa92e10b941^1cd3cfa92e10b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/fumiharu/Desktop/ques/ques/en.lproj/InfoPlist.strings0000000000000000^712"CopyStringsFile Build/Products/Debug-iphonesimulator/ques.app/en.lproj/InfoPlist.strings ques/en.lproj/InfoPlist.strings    cd /Users/fumiharu/Desktop/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/en.lproj -- ques/en.lproj/InfoPlist.strings36"0E262CBE-A9ED-421A-BB94-70CC9BED95B9-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
+
+CCopyStringsFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/en.lproj/InfoPlist.strings ques/en.lproj/InfoPlist.strings
+r0
 
 CCpResource ques/lion.jpg Build/Products/Debug-iphonesimulator/ques.app/lion.jpg
 s420490921.606150
@@ -699,6 +1041,16 @@ x/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM
 x/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Generate /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM118"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ques.app.dSYM Build/Products/Debug-iphonesimulator/ques.app/ques747c74aa2e10b941^143f7aaa2e10b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM003498bcdfffdf42^764"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ques.app.dSYM Build/Products/Debug-iphonesimulator/ques.app/ques    cd /Users/fumiharu/Desktop/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ques -o /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM36"428B30DC-6E5E-49C4-985F-4B8EEB7B0B0A-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
+
+CGenerateDSYMFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
+s420574180.978897
+e420574181.055047
+r1
+xGenerateDSYMFile
+x/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM
+x/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generate /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM118"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ques.app.dSYM Build/Products/Debug-iphonesimulator/ques.app/ques26e5fae47311b941^6d1b0ee57311b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM/0000000000000000^767"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ques.app.dSYM Build/Products/Debug-iphonesimulator/ques.app/ques    cd /Users/fumiharu/clonekif/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques -o /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app.dSYM36"74E38DF6-69E9-49C7-87B9-5FC1D22967BE-
+b5811723F-A066-41C1-9EC8-955C38AD6AC7
 
 CLd /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ques normal i386
 s420490921.407495
@@ -782,6 +1134,88 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Link /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ques65"Ld Build/Products/Debug-iphonesimulator/ques.app/ques normal i386bd6f68a92e10b941^4dd872a92e10b941^---0#0#1#--1450"Ld Build/Products/Debug-iphonesimulator/ques.app/ques normal i386    cd /Users/fumiharu/Desktop/ques    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -filelist /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ques.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ques_dependency_info.dat -o /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ques36"27376599-A869-4EEA-AA4E-78E6CECF36D3-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
 
+CLd /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques normal i386
+s420574177.281949
+e420574177.460569
+r1
+xLd
+x/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
+xnormal
+xi386
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ques.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail0ViewController.o
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ViewController.o
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail2ViewController.o
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/AppDelegate.o
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/main.o
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/Detail1ViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Link /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques65"Ld Build/Products/Debug-iphonesimulator/ques.app/ques normal i386dc8348e17311b941^55f675e17311b941^---0#0#1#--1456"Ld Build/Products/Debug-iphonesimulator/ques.app/ques normal i386    cd /Users/fumiharu/clonekif/ques    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -filelist /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ques.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/Objects-normal/i386/ques_dependency_info.dat -o /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques36"C3AFAEA9-FDC4-44C2-BCEB-251B6EFBA844-
+b5811723F-A066-41C1-9EC8-955C38AD6AC7
+
 CProcessInfoPlistFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/Info.plist /Users/fumiharu/Desktop/ques/ques/ques-Info.plist
 s420490922.452291
 e420490922.454176
@@ -791,6 +1225,9 @@ x/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/Info
 x/Users/fumiharu/Desktop/ques/ques/ques-Info.plist
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Process /Users/fumiharu/Desktop/ques/ques/ques-Info.plist98"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ques.app/Info.plist ques/ques-Info.plistc2df73aa2e10b941^894574aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/fumiharu/Desktop/ques/ques/ques-Info.plist0000000000000000^956"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ques.app/Info.plist ques/ques-Info.plist    cd /Users/fumiharu/Desktop/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/fumiharu/Desktop/ques/ques/ques-Info.plist -genpkginfo /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/assetcatalog_generated_info.plist -o /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/Info.plist36"81ABD751-151A-4169-AE5A-8BD8CB85A778-
 b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
+
+CProcessInfoPlistFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/Info.plist /Users/fumiharu/clonekif/ques/ques/ques-Info.plist
+r0
 
 CProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-dqiyebecqzijflbflcvmdmhncget/ques-Prefix.pch.pch ques/ques-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490921.141444
@@ -810,6 +1247,27 @@ b74B14DC6-49E1-436A-A21A-C3DF3AC72BF5
 CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/ques-dujccbnicnetlkcnondzwqlcadxg/Index/PrecompiledHeaders/ques-Prefix-ghezsspuuqawjrasdptedogonjzt_ast/ques-Prefix.pch.pch ques/ques-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
+CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/ques-dvwzplhejexwfpdnzudfhujywgab/Index/PrecompiledHeaders/ques-Prefix-exlxhvjgyvpoasgtfutooxvryitt_ast/ques-Prefix.pch.pch ques/ques-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.pch ques/ques-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420554271.899263
+e420554271.965928
+r1
+xProcessPCH
+x/Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.pch
+xques/ques-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/ques/ques-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile ques/ques-Prefix.pch199"ProcessPCH Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.pch ques/ques-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0569e61f2611b941^7347f71f2611b941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/fumiharu/clonekif/ques/ques/ques-Prefix.pch0000000000000000^3477"ProcessPCH Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.pch ques/ques-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/ques-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/ques.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.dia -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.d -c /Users/fumiharu/clonekif/ques/ques/ques-Prefix.pch -o /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/ques-Prefix-bekkfmemndtdfadesqzrvrrpggec/ques-Prefix.pch.pch36"159F54DB-D9C0-4833-91E8-99E59B2D109A-
+b20D3BFD7-D2D4-437A-8725-EAB54E0FD50D
+
 CTouch /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app
+r0
+
+CTouch /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app
 r0
 

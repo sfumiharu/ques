@@ -2,16 +2,16 @@ TquesTests
 v6
 r1
 cCheck dependencies
-cProcessInfoPlistFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Info.plist /Users/fumiharu/Desktop/ques/quesTests/quesTests-Info.plist
-cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh
-cProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-fbuethqefjshbzcvqkqnlbmlrasy/quesTests-Prefix.pch.pch quesTests/quesTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o /Users/fumiharu/Desktop/ques/quesTests/KIFUITestActor+quesAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o /Users/fumiharu/Desktop/ques/quesTests/quesKIFTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests normal i386
-cGenerateDSYMFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests
-cCopyStringsFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/en.lproj/InfoPlist.strings quesTests/en.lproj/InfoPlist.strings
-cPhaseScriptExecution Copy\ Pods\ Resources /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh
-cTouch /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest
+cProcessInfoPlistFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Info.plist /Users/fumiharu/clonekif/ques/quesTests/quesTests-Info.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh
+cProcessPCH /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.pch quesTests/quesTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o /Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o /Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests normal i386
+cGenerateDSYMFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests
+cCopyStringsFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/en.lproj/InfoPlist.strings quesTests/en.lproj/InfoPlist.strings
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh
+cTouch /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest
 
 N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/XCTest.framework/XCTest
 c00000000531FD94500000000000266D0
@@ -325,6 +325,98 @@ c00000000535FE09F00000000000000D2
 t1398792351
 s210
 
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.pch
+t1398861473
+s121692
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o
+t1398877463
+s54044
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o
+t1398881551
+s16780
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesTests.LinkFileList
+c000000005360EEA1000000000000011B
+t1398861473
+s283
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh
+c000000005360EE870000000000000103
+t1398861447
+s259
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh
+c000000005360EE870000000000000039
+t1398861447
+s57
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a
+c000000005360EEA100000000000BDB58
+t1398861473
+s777048
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
+c0000000053613C610000000000009F48
+t1398881377
+s40776
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest
+t1398881551
+s204
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM
+t1398881518
+s102
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Info.plist
+t1398861447
+s487
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/en.lproj/InfoPlist.strings
+t1398861447
+s42
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests
+t1398881551
+s242120
+
+N/Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.h
+c0000000053612D170000000000000183
+t1398877463
+s387
+
+N/Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m
+c0000000053612D17000000000000061B
+t1398877463
+s1563
+
+N/Users/fumiharu/clonekif/ques/quesTests/en.lproj/InfoPlist.strings
+c000000005360EE87000000000000002D
+t1398861447
+s45
+
+N/Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.h
+c000000005360EE8700000000000000A7
+t1398861447
+s167
+
+N/Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m
+c0000000053613D0E000000000000088B
+t1398881550
+s2187
+
+N/Users/fumiharu/clonekif/ques/quesTests/quesTests-Info.plist
+c000000005360EE8700000000000002A9
+t1398861447
+s681
+
+N/Users/fumiharu/clonekif/ques/quesTests/quesTests-Prefix.pch
+c000000005360EE8700000000000000D2
+t1398861447
+s210
+
 N/usr/lib/libSystem.B.dylib
 c000000005281C02A000000000000E6D0
 t1384235050
@@ -354,6 +446,11 @@ N/usr/lib/system/libcorecrypto.dylib
 c000000005281C03800000000000BD920
 t1384235064
 s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000053100E8D00000000000141F0
+t1393561229
+s82416
 
 N/usr/lib/system/libkeymgr.dylib
 c000000005281C039000000000000A120
@@ -461,9 +558,15 @@ r0
 CBuild AST from /Users/fumiharu/Desktop/ques/quesTests/quesKIFTest.m
 r0
 
+CBuild AST from /Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m
+r0
+
+CBuild AST from /Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m
+r0
+
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd5ec8d482f10b941^56118e482f10b941^---0#1#1#--18"Check dependencies36"E16B9061-C334-44CA-B2E6-F914C8FE8419-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf721ff8e7411b941^8f54ff8e7411b941^---0#1#1#--18"Check dependencies36"1C440846-B1FE-4D5D-900E-ADD8D6E4A195-
 
 CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o /Users/fumiharu/Desktop/ques/quesTests/KIFUITestActor+quesAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490922.584223
@@ -480,6 +583,22 @@ d/Users/fumiharu/Desktop/ques/quesTests/KIFUITestActor+quesAdditions.m
 d/Users/fumiharu/Desktop/ques/quesTests/KIFUITestActor+quesAdditions.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/fumiharu/Desktop/ques/quesTests/KIFUITestActor+quesAdditions.m237"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o quesTests/KIFUITestActor+quesAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf2b395aa2e10b941^1500abaa2e10b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/fumiharu/Desktop/ques/quesTests/KIFUITestActor+quesAdditions.m0000000000000000^4126"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o quesTests/KIFUITestActor+quesAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem /Users/fumiharu/Desktop/ques/Pods/Headers -isystem /Users/fumiharu/Desktop/ques/Pods/Headers/KIF -DKIF_XCTEST -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-fbuethqefjshbzcvqkqnlbmlrasy/quesTests-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.dia -c /Users/fumiharu/Desktop/ques/quesTests/KIFUITestActor+quesAdditions.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o36"46620479-286F-4D0C-B555-DC31A8953041-
 bE175298E-A499-4999-B437-9D3FDB28316B
+
+CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o /Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420570263.787791
+e420570263.906110
+r1
+xCompileC
+xBuild/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o
+x/Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m
+d/Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m237"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o quesTests/KIFUITestActor+quesAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2dd1c9976411b941^f5f6e7976411b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m0000000000000000^4144"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o quesTests/KIFUITestActor+quesAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/clonekif/ques/Pods/Headers -I/Users/fumiharu/clonekif/ques/Pods/Headers/KIF -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem /Users/fumiharu/clonekif/ques/Pods/Headers -isystem /Users/fumiharu/clonekif/ques/Pods/Headers/KIF -DKIF_XCTEST -include /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.d --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.dia -c /Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.m -o /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o36"B62D969B-A41C-4E1D-AB89-F9746A131B79-
+b8271807D-990D-4D4F-BBFE-14097228B8B2
 
 CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o /Users/fumiharu/Desktop/ques/quesTests/quesKIFTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490922.584646
@@ -498,6 +617,23 @@ d/Users/fumiharu/Desktop/ques/quesTests/KIFUITestActor+quesAdditions.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/fumiharu/Desktop/ques/quesTests/quesKIFTest.m203"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o quesTests/quesKIFTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7d095aa2e10b941^1c61a5aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/fumiharu/Desktop/ques/quesTests/quesKIFTest.m0000000000000000^4024"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o quesTests/quesKIFTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem /Users/fumiharu/Desktop/ques/Pods/Headers -isystem /Users/fumiharu/Desktop/ques/Pods/Headers/KIF -DKIF_XCTEST -include /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-fbuethqefjshbzcvqkqnlbmlrasy/quesTests-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.dia -c /Users/fumiharu/Desktop/ques/quesTests/quesKIFTest.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o36"270771F9-CFE9-4200-9943-74E062CBC33C-
 bE175298E-A499-4999-B437-9D3FDB28316B
 
+CCompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o /Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420574351.016481
+e420574351.064618
+r1
+xCompileC
+xBuild/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o
+x/Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m
+d/Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.h
+d/Users/fumiharu/clonekif/ques/quesTests/KIFUITestActor+quesAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m203"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o quesTests/quesKIFTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler834e048f7411b941^f08a108f7411b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m0000000000000000^4042"CompileC Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o quesTests/quesKIFTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/clonekif/ques/Pods/Headers -I/Users/fumiharu/clonekif/ques/Pods/Headers/KIF -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem /Users/fumiharu/clonekif/ques/Pods/Headers -isystem /Users/fumiharu/clonekif/ques/Pods/Headers/KIF -DKIF_XCTEST -include /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.d --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.dia -c /Users/fumiharu/clonekif/ques/quesTests/quesKIFTest.m -o /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o36"B0AB7E8C-0ECF-4568-A5C7-75A83EB87D7F-
+bB6089131-0950-4036-BFBB-6BAB9A83B3D0
+
 CCopyStringsFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/en.lproj/InfoPlist.strings quesTests/en.lproj/InfoPlist.strings
 s420490922.758103
 e420490922.759099
@@ -508,6 +644,9 @@ xquesTests/en.lproj/InfoPlist.strings
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy quesTests/en.lproj/InfoPlist.strings133"CopyStringsFile Build/Products/Debug-iphonesimulator/quesTests.xctest/en.lproj/InfoPlist.strings quesTests/en.lproj/InfoPlist.strings9e23c2aa2e10b941^e754c2aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/fumiharu/Desktop/ques/quesTests/en.lproj/InfoPlist.strings0000000000000000^738"CopyStringsFile Build/Products/Debug-iphonesimulator/quesTests.xctest/en.lproj/InfoPlist.strings quesTests/en.lproj/InfoPlist.strings    cd /Users/fumiharu/Desktop/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/en.lproj -- quesTests/en.lproj/InfoPlist.strings36"CA8858F6-AABE-4016-910E-BA55191169FE-
 bE175298E-A499-4999-B437-9D3FDB28316B
 
+CCopyStringsFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/en.lproj/InfoPlist.strings quesTests/en.lproj/InfoPlist.strings
+r0
+
 CGenerateDSYMFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests
 s420490922.727991
 e420490922.757666
@@ -517,6 +656,16 @@ x/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xct
 x/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Generate /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM139"GenerateDSYMFile Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests766ebaaa2e10b941^0ef7c1aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM003498bcdfffdf42^806"GenerateDSYMFile Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests    cd /Users/fumiharu/Desktop/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests -o /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM36"ED1EE74B-38A6-4266-A3F4-93DA4BDAA174-
 bE175298E-A499-4999-B437-9D3FDB28316B
+
+CGenerateDSYMFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests
+s420574351.109034
+e420574351.138460
+r1
+xGenerateDSYMFile
+x/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM
+x/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generate /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM139"GenerateDSYMFile Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTestse0f71b8f7411b941^9372238f7411b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM/0000000000000000^809"GenerateDSYMFile Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests    cd /Users/fumiharu/clonekif/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests -o /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest.dSYM36"43B985FB-57C8-4A4C-A0B1-346051B61A53-
+bB6089131-0950-4036-BFBB-6BAB9A83B3D0
 
 CLd /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests normal i386
 s420490922.668718
@@ -599,6 +748,87 @@ d/usr/lib/system/libunwind.dylib
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Link /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests78"Ld Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests normal i3860745abaa2e10b941^9b1cbaaa2e10b941^---0#0#1#--1869"Ld Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests normal i386    cd /Users/fumiharu/Desktop/ques    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesTests.LinkFileList -bundle_loader /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/ques.app/ques -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework XCTest -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework XCTest -framework UIKit -framework Foundation -lPods-quesTests -Xlinker -dependency_info -Xlinker /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesTests_dependency_info.dat -o /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests36"18B7D55C-66CB-4EAD-B3AF-F41F46EED028-
 bE175298E-A499-4999-B437-9D3FDB28316B
 
+CLd /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests normal i386
+s420574351.066364
+e420574351.108187
+r1
+xLd
+x/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests
+xnormal
+xi386
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesTests.LinkFileList
+d/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/bundle1.o
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/KIFUITestActor+quesAdditions.o
+d/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesKIFTest.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests78"Ld Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests normal i3867a1d118f7411b941^bcb21b8f7411b941^---0#0#1#--1876"Ld Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests normal i386    cd /Users/fumiharu/clonekif/ques    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesTests.LinkFileList -bundle_loader /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/ques.app/ques -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework XCTest -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework XCTest -framework UIKit -framework Foundation -lPods-quesTests -Xlinker -dependency_info -Xlinker /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Objects-normal/i386/quesTests_dependency_info.dat -o /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/quesTests36"B09CEEA9-91A3-45BC-B4B7-26803FCD309A-
+bB6089131-0950-4036-BFBB-6BAB9A83B3D0
+
 CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh
 s420491080.556462
 e420491080.573692
@@ -608,6 +838,16 @@ xCheck Pods Manifest.lock
 x/Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'151"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.shb0c98e482f10b941^72df92482f10b941^---0#0#1#--336"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh    cd /Users/fumiharu/Desktop/ques    /bin/sh -c /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh36"E73B79E6-68ED-4AF5-B0FB-FBF83D0ECF9A-
 b9E411982-DB11-4D4A-B1DA-AF043D9749D5
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh
+s420574350.997816
+e420574351.015623
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'151"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh48c5ff8e7411b941^b401048f7411b941^---0#0#1#--338"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh    cd /Users/fumiharu/clonekif/ques    /bin/sh -c /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-07EE4F7CAC0540C0ACA19AF6.sh36"628407DA-BD57-47EE-9856-F6D95BC64228-
+bB6089131-0950-4036-BFBB-6BAB9A83B3D0
 
 CPhaseScriptExecution Copy\ Pods\ Resources /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh
 s420491080.577600
@@ -626,6 +866,23 @@ o
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'146"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh6f2c94482f10b941^62f3f1482f10b941^-250"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-420491080#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-420491080#29#50#-0#-----2@33"total size is 0  speedup is 0.00-420491080#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-420491080#112#43#-0#-----2@94"/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Assets.car-420491080#155#94#-0#-----0#0#1#--331"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh    cd /Users/fumiharu/Desktop/ques    /bin/sh -c /Users/fumiharu/Desktop/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh36"6BAE7181-57EE-466D-AD09-05F36BB7E5B6-
 b9E411982-DB11-4D4A-B1DA-AF043D9749D5
 
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh
+s420574351.139145
+e420574351.553859
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+o/* com.apple.actool.compilation-results */
+o/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'146"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh5ef2238f7411b941^2aca8d8f7411b941^-251"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-420574351#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-420574351#29#50#-0#-----2@33"total size is 0  speedup is 0.00-420574351#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-420574351#112#43#-0#-----2@95"/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Assets.car-420574351#155#95#-0#-----0#0#1#--333"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh    cd /Users/fumiharu/clonekif/ques    /bin/sh -c /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/Script-7323A4105F674C94AE36D0BD.sh36"F172FD38-8A18-436E-BAB8-2C83A0DEC51A-
+bB6089131-0950-4036-BFBB-6BAB9A83B3D0
+
 CProcessInfoPlistFile /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Info.plist /Users/fumiharu/Desktop/ques/quesTests/quesTests-Info.plist
 s420490922.529143
 e420490922.530173
@@ -635,6 +892,9 @@ x/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xct
 x/Users/fumiharu/Desktop/ques/quesTests/quesTests-Info.plist
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Process /Users/fumiharu/Desktop/ques/quesTests/quesTests-Info.plist116"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/quesTests.xctest/Info.plist quesTests/quesTests-Info.plist408587aa2e10b941^f1b987aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/fumiharu/Desktop/ques/quesTests/quesTests-Info.plist0000000000000000^747"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/quesTests.xctest/Info.plist quesTests/quesTests-Info.plist    cd /Users/fumiharu/Desktop/ques    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/fumiharu/Desktop/ques/quesTests/quesTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Info.plist36"19770160-8D99-4D8C-B25A-29624FB06D23-
 bE175298E-A499-4999-B437-9D3FDB28316B
+
+CProcessInfoPlistFile /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest/Info.plist /Users/fumiharu/clonekif/ques/quesTests/quesTests-Info.plist
+r0
 
 CProcessPCH /Users/fumiharu/Desktop/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-fbuethqefjshbzcvqkqnlbmlrasy/quesTests-Prefix.pch.pch quesTests/quesTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490922.546899
@@ -654,6 +914,27 @@ bE175298E-A499-4999-B437-9D3FDB28316B
 CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/ques-dujccbnicnetlkcnondzwqlcadxg/Index/PrecompiledHeaders/quesTests-Prefix-emiojtuvjjncdzfutbiuhpvyarro_ast/quesTests-Prefix.pch.pch quesTests/quesTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
+CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/ques-dvwzplhejexwfpdnzudfhujywgab/Index/PrecompiledHeaders/quesTests-Prefix-csukfijwvzfyrjhfwvyagtkuiwwv_ast/quesTests-Prefix.pch.pch quesTests/quesTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.pch quesTests/quesTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420554273.369131
+e420554273.555529
+r1
+xProcessPCH
+x/Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.pch
+xquesTests/quesTests-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/clonekif/ques/quesTests/quesTests-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile quesTests/quesTests-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.pch quesTests/quesTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler52995e212611b941^ac378e212611b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/fumiharu/clonekif/ques/quesTests/quesTests-Prefix.pch0000000000000000^3944"ProcessPCH Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.pch quesTests/quesTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/clonekif/ques    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-generated-files.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-own-target-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-all-target-headers.hmap -iquote /Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/quesTests-project-headers.hmap -I/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/clonekif/ques/Pods/Headers -I/Users/fumiharu/clonekif/ques/Pods/Headers/KIF -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources/i386 -I/Users/fumiharu/clonekif/ques/Build/Intermediates/ques.build/Debug-iphonesimulator/quesTests.build/DerivedSources -F/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem /Users/fumiharu/clonekif/ques/Pods/Headers -isystem /Users/fumiharu/clonekif/ques/Pods/Headers/KIF -DKIF_XCTEST --serialize-diagnostics /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.dia -MMD -MT dependencies -MF /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.d -c /Users/fumiharu/clonekif/ques/quesTests/quesTests-Prefix.pch -o /Users/fumiharu/clonekif/ques/Build/Intermediates/PrecompiledHeaders/quesTests-Prefix-evmvhubzyptlswcinuemqkcehudr/quesTests-Prefix.pch.pch36"2836FC62-C829-419C-9555-FDAC6F17CF70-
+bA9FA5FE3-633A-49A6-85F2-E63F473A0719
+
 CTouch /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest
+r0
+
+CTouch /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/quesTests.xctest
 r0
 

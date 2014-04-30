@@ -48,4 +48,12 @@ static const NSInteger kWaitTime = 2;
 //    mainviewのsubviewsを取得
     [tester getSubviewWithAccessibilityLabel:@"mainview"];
 }
+
+-(void)testInputTextInWebView{
+    [tester tapRowAtIndexPath:[NSIndexPath indexPathForRow:0 inSection:2]inTableViewWithAccessibilityIdentifier:@"tableview"];
+    [tester waitForTimeInterval:5];
+    [tester runJavascript:@"document.gs.q.value = 'Ques?';" accessibility:@"webview"];
+    [tester waitForTimeInterval:5];
+    [tester tapViewWithAccessibilityLabel:@"Back"];
+}
 @end

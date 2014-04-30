@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "Detail0ViewController.h"
 #import "Detail1ViewController.h"
+#import "Detail2ViewController.h"
 
 @interface ViewController (){
     NSArray *sectionTitle;
@@ -23,8 +24,8 @@
 {
     [super viewDidLoad];
 
-    sectionTitle = [NSArray arrayWithObjects:@"TEST-1", @"TEST-2", nil];
-    cellData = [NSArray arrayWithObjects:@"inputText & btnTapped", @"changeText", nil];
+    sectionTitle = [NSArray arrayWithObjects:@"TEST-1", @"TEST-2", @"TEST-3", nil];
+    cellData = [NSArray arrayWithObjects:@"inputText & btnTapped", @"changeText", @"run js in webview", nil];
     
     [_tableview registerClass:[UITableViewCell class] forCellReuseIdentifier:@"cell"];
     [_tableview setAccessibilityIdentifier:@"tableview"];
@@ -57,6 +58,8 @@
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
     Detail0ViewController *d0vc = [[Detail0ViewController alloc]initWithNibName:@"Detail0ViewController" bundle:nil];
     Detail1ViewController *d1vc = [[Detail1ViewController alloc]initWithNibName:@"Detail1ViewController" bundle:nil];
+    Detail2ViewController *d2vc = [[Detail2ViewController alloc]initWithNibName:@"Detail2ViewController" bundle:nil];
+    
     if (indexPath.section == 0) {
         if (indexPath.row == 0) {
             [self.navigationController pushViewController:d0vc animated:YES];
@@ -64,6 +67,10 @@
     }else if (indexPath.section == 1){
         if (indexPath.row == 0) {
             [self.navigationController pushViewController:d1vc animated:YES];
+        }
+    }else if (indexPath.section == 2){
+        if (indexPath.row == 0) {
+            [self.navigationController pushViewController:d2vc animated:YES];
         }
     }
     

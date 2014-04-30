@@ -2,8 +2,8 @@ TPods-quesTests
 v6
 r1
 cCheck dependencies
-cCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.o /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386
+cCompileC /Users/fumiharu/clonekif/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.o /Users/fumiharu/clonekif/ques/Pods/Pods-quesTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 c00000000531FD94B0000000000A90C10
@@ -53,12 +53,38 @@ c00000000535FF5A00000000000000084
 t1398797728
 s132
 
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.o
+t1398861447
+s3152
+
+N/Users/fumiharu/clonekif/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests.LinkFileList
+c000000005360EEA10000000000000093
+t1398861473
+s147
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a
+c000000005360EEA100000000000BCE50
+t1398861473
+s773712
+
+N/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a
+t1398861473
+s777048
+
+N/Users/fumiharu/clonekif/ques/Pods/Pods-quesTests-dummy.m
+c000000005360EE870000000000000084
+t1398861447
+s132
+
 CBuild AST from /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-dummy.m
+r0
+
+CBuild AST from /Users/fumiharu/clonekif/ques/Pods/Pods-quesTests-dummy.m
 r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesff5b8d482f10b941^d9968d482f10b941^---0#1#1#--18"Check dependencies36"C06CE5C7-FBC5-450E-B16F-31F60DB7AD0A-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb799fa8e7411b941^b132fe8e7411b941^---0#1#1#--18"Check dependencies36"F8B53734-44DA-411C-A1B5-EF622ADD5D40-
 
 CCompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.o /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420490922.481435
@@ -75,6 +101,9 @@ d/Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-dummy.m
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-dummy.m245"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.o Pods-quesTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc1587baa2e10b941^328e81aa2e10b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-dummy.m0000000000000000^3853"CompileC /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.o Pods-quesTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/ques/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Pods-quesTests-generated-files.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Pods-quesTests-own-target-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Pods-quesTests-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Pods-quesTests-project-headers.hmap -I/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/Desktop/ques/Pods/Pods/Headers -I/Users/fumiharu/Desktop/ques/Pods/Pods/Headers/KIF -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/DerivedSources -F/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -isystem /Users/fumiharu/Desktop/ques/Pods/Pods/Headers -isystem /Users/fumiharu/Desktop/ques/Pods/Pods/Headers/KIF -DKIF_XCTEST -MMD -MT dependencies -MF /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.d --serialize-diagnostics /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.dia -c /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-dummy.m -o /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.o36"14BB6C22-7787-4D3E-8B11-A60676E25CC3-
 bDA13A3E4-1D1F-4D28-871E-339E30190649
 
+CCompileC /Users/fumiharu/clonekif/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests-dummy.o /Users/fumiharu/clonekif/ques/Pods/Pods-quesTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
 CLibtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386
 s420490922.506767
 e420490922.524045
@@ -87,4 +116,17 @@ o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a(UIWindow-KIFAdditions.o) has no symbols
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Libtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386105"Libtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386b3cd81aa2e10b941^0f2986aa2e10b941^-466"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a(CGGeometry-KIFAdditions.o) has no symbols/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a(UIWindow-KIFAdditions.o) has no symbols-0#0#1#--1147"Libtool /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386    cd /Users/fumiharu/Desktop/ques/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator -filelist /Users/fumiharu/Desktop/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests.LinkFileList -framework Foundation -lPods-quesTests-KIF -o /Users/fumiharu/Desktop/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a36"9CFB9D3E-ACE6-478E-AF00-6346C0395CA1-
 bDA13A3E4-1D1F-4D28-871E-339E30190649
+
+CLibtool /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386
+s420554273.311391
+e420554273.333560
+r1
+xLibtool
+x/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a(CGGeometry-KIFAdditions.o) has no symbols
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a(UIWindow-KIFAdditions.o) has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386106"Libtool /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386f4fe4f212611b941^306855212611b941^-468"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a(CGGeometry-KIFAdditions.o) has no symbols/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests-KIF.a(UIWindow-KIFAdditions.o) has no symbols-0#0#1#--1152"Libtool /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a normal i386    cd /Users/fumiharu/clonekif/ques/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator -filelist /Users/fumiharu/clonekif/ques/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-quesTests.build/Objects-normal/i386/Pods-quesTests.LinkFileList -framework Foundation -lPods-quesTests-KIF -o /Users/fumiharu/clonekif/ques/Build/Products/Debug-iphonesimulator/libPods-quesTests.a36"08D7855F-7244-4839-AA14-705DF5867E03-
+b355C7A04-5926-43BC-A87F-58B617970C2E
 

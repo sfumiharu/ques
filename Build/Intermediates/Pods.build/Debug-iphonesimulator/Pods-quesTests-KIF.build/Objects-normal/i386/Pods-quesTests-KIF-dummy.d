@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/fumiharu/Desktop/ques/Pods/Pods-quesTests-KIF-dummy.m
+  /Users/fumiharu/clonekif/ques/Pods/Pods-quesTests-KIF-dummy.m

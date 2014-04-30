@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.m \
-  /Users/fumiharu/Desktop/ques/Pods/KIF/Additions/NSException-KIFAdditions.h
+  /Users/fumiharu/clonekif/ques/Pods/KIF/Additions/NSException-KIFAdditions.m \
+  /Users/fumiharu/clonekif/ques/Pods/KIF/Additions/NSException-KIFAdditions.h

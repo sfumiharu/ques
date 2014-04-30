@@ -33,4 +33,17 @@
     }];
     
 }
+
+-(void)runJavascript:(NSString*)js accessibility:(NSString*)accessibility{
+    [self runBlock:^KIFTestStepResult(NSError **error) {
+        UIView *view = [self waitForViewWithAccessibilityLabel:accessibility];
+        if (!view) {
+            return KIFTestStepResultFailure;
+        }
+        
+        UIWebView *webview = (UIWebView*)view;
+        KIFTestCondition([webview stringByEvaluatingJavaScriptFromString:js], error, @"fail");
+        return KIFTestStepResultSuccess;
+    }];
+}
 @end
