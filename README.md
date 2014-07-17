@@ -1,4 +1,4 @@
-Welcame!
+Welcome!
 
 ques
 ====
